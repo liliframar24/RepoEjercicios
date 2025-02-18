@@ -1,0 +1,4 @@
+Cree un programa para un supermercado que le solicite 
+al usuario la cantidad de ítems a comprar, 
+posteriormente pida el precio de cada uno de esos elementos y 
+finalmente arroje en pantalla el valor total a pagar.
