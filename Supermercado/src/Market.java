@@ -51,9 +51,9 @@ public class Market {
 
 		int productos = 0;
         System.out.print("¿Cuántos productos desea comprar? ");
-        productos = reader.nextInt();
-        reader.nextLine(); 
-        comprarProductos(lector);
+        productos = lector.nextInt();
+        lector.nextLine(); 
+        comprarProductos(lector,productos);
     }
     
 }
