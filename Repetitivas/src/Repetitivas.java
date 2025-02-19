@@ -64,6 +64,23 @@ public class Repetitivas {
          }
          return existe;
     }
+	
+	/**
+     * factorial
+     * Esta subrutina calcula el numero factorial de un numero
+	 * ejemplo Ocho factorial es igual a 8*7*6*5*4*3*2*1 = 40320.
+     * @param val ingresa el valor inicial valIni>0 y valIni<=12
+     * @return resultado int con calculo del numero factorial
+     * 
+     */
+    public static int factorial(int val){
+         int resultado=0;
+         
+       //TAREA COMPLETAR
+        return resultado;
+    }	
+	
+	
 
 	/**
      * main
