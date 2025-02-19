@@ -1,4 +1,5 @@
-Cree un programa para un supermercado que le solicite 
-al usuario la cantidad de ítems a comprar, 
-posteriormente pida el precio de cada uno de esos elementos y 
-finalmente arroje en pantalla el valor total a pagar.
+Cuántos números entre el 0 y el 10.000 son múltiplos del 20
+Recuerde utilizar subrutinas
+Una subrutina utilizando for
+Una subrutina utilizando while
+
