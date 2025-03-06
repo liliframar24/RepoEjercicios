@@ -1,5 +1,18 @@
 import java.util.Scanner;
+    /**
+     * Clase Nota
+     * ingresa las notas del estudiante y se calcula promedio
+     * @author Lili Franco
+     * @version 1.0
+     */
 public class Nota {
+
+    /**
+     * calcularPromedio
+     * calcula el promedio de las notas ingresadas
+     * @param n[] es un arreglo de notas n!=null
+     * @return double promedio de las ntoas
+     */
 
     public static double calcularPromedio(double[] n){
         double resultado=0;
@@ -12,6 +25,11 @@ public class Nota {
         return resultado;
     }
 
+    /**
+     * main
+     * metodo ejecutable de java
+     * @param args[] es un arreglo de String
+     */
     public static void main(String[] args){
         Scanner reader=new Scanner(System.in);
         int cantNotas=5;
